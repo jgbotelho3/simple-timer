@@ -2,7 +2,7 @@
 
 Um simples timer feito com ReactJs para iniciar o aprendizado de React utilizando Hooks.
 
-[gif](https://imgflip.com/gif/3tfzov)
+[gif](https://github.com/jgbotelho3/simple-timer/blob/master/timer.gif)
 
 ## Instalação
 
